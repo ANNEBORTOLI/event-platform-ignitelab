@@ -1,6 +1,6 @@
 # Event Platform
 
-Plataforma para visualização de aulas.
+Plataforma para visualização de aulas online. A base da aplicação foi criada utilizando ReactJS, Vite e TailwindCSS, foi utilizado GraphCMS para a criação das entidades da aplicação e integração da API GraphQL gerada pela plataforma no nosso front-end utilizando Apollo Client.
 
 ## Tecnologias
 
